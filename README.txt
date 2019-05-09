@@ -1,6 +1,6 @@
 # Conway-s-Game-of-Life
 
-Program powinien umożliwiać:
+Program powinien umożliwia:
 
 - wczytywanie do programu początkowej konfiguracji generacji z pliku o wybranym formacie,
 
@@ -9,9 +9,6 @@ Program powinien umożliwiać:
 - wygenerowanie N obrazów przedstawiających stan wybranych generacji (np. w postaci plików PNG),
 
 - zapisywanie bieżącej generacji do pliku (który może zostać potem wczytany).
-
-Należy zwrócić uwagę na prawidłowe rozdzielenie "wymiennych" elementów programu, tj. sąsiedztwo, zestaw zasad, siatka, rysowanie itp.
-
 
 
 #Zasady 
